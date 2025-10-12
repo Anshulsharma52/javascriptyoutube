@@ -15,7 +15,7 @@ let isLoggedIn = false
 // symbol => unique
 
 // object
-// null ek objectdatatype h
+// null ek object datatype h
 
 
 console.log(typeof "Anshul");  //string
