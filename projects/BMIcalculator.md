@@ -1,3 +1,13 @@
+# Projects related to DOM
+
+## project link
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+
+# solution code
+
+## project 2
+
+```javascript
 <!DOCTYPE html>
 <html lang="en">
 
@@ -128,3 +138,4 @@
 </script>
 
 </html>
+```
